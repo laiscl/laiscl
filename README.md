@@ -2,7 +2,6 @@
 
 <h3>Hi there! I'm Laís and welcome to my GitHub page! 	:coffee:</h3>
   </div>  
-
 • Undergraduate bachelor of IT and music producer;<br>
 • Studying and improving technology skills;<br>
 • Love music, programming, learning new cultures, languages and technologies;<br>
