@@ -1,6 +1,6 @@
 <div align="left">
 
-<h3>Hi there! I'm Laís and welcome to my GitHub page! 	:coffee:</h3>
+<h3>Hi there! I'm Laís and welcome to my GitHub page!</h3>
   </div>  
 • Bachelor of IT and music producer;<br>
 • Studying and improving technology skills;<br>
