@@ -24,14 +24,6 @@
 <a href="https://www.instagram.com/ltsuki/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" alt="Lais Costa" height="30" width="40" /></a>
   <a href=mailto:delima.lais@outlook.com target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftoutlook.svg" alt="Lais Costa" height="30" width="40" /></a>
 
-
-<h2>GitHub Stats</h2>
-
-<p align="left">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=laiscl&hide=stars&show_icons=true&theme=dracula&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiscl&count_private=true&theme=dracula">
- 
 </p>
 </div>  
 
