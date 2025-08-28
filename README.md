@@ -31,12 +31,12 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=laiscl&hide=stars&show_icons=true&theme=dracula&line_height=32">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiscl&count_private=true&theme=dracula">
-
+ 
 </p>
 </div>  
 
 <!--
-easter egg - edit later
+easter egg 
 -->
  
 </p>
