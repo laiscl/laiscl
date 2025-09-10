@@ -18,12 +18,6 @@
 <a href="https://nodejs.org/en/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="LCL-NODEMON" height="30" width="40" /></a>
 <a href="https://azure.microsoft.com/pt-br/services/devops/#overview" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="LCL-DEVOPS" height="30" width="40" /></a>
 
-<h2>Feel free to connect with me on</h2>
-
-<a href="https://www.linkedin.com/in/lais-costa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Lais Costa" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ltsuki/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" alt="Lais Costa" height="30" width="40" /></a>
-  <a href=mailto:delima.lais@outlook.com target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftoutlook.svg" alt="Lais Costa" height="30" width="40" /></a>
-
 </p>
 </div>  
 
