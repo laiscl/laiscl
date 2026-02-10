@@ -1,30 +1,52 @@
 <div align="left">
 
-<h3>Hi there! I'm Laís and welcome to my GitHub page!</h3>
-  </div>  
-• Bachelor of IT and music producer;<br>
-• Studying and improving technology skills;<br>
-• Love music, programming, learning new cultures, languages and technologies;<br>
-• Pronouns: She/Her;<br> 
-  
-<h2>Languages and Tools</h2>
+# Hi there! I'm Laís — welcome to my GitHub!
 
-<a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="LCL-CSHARP" height="30" width="40" /></a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="LCL-HMTL" height="30" width="40" /></a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="LCL-CSS" height="30" width="40" /></a>
-<a href="https://angular.io/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="LCL -ANGULAR" height="30" width="40" /></a>
-<a href="https://docs.microsoft.com/pt-br/javascript/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="LCL-JS" height="30" width="40" /></a>
-<a href="https://docs.microsoft.com/pt-br/learn/modules/typescript-get-started/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="LCL-TS" height="30" width="40" /></a>
-<a href="https://nodejs.org/en/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="LCL-NODEMON" height="30" width="40" /></a>
-<a href="https://azure.microsoft.com/pt-br/services/devops/#overview" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="LCL-DEVOPS" height="30" width="40" /></a>
+• Bachelor of IT & music producer;  
+• Improving my tech skills every day;  
+• I love music, programming, and learning new cultures, languages, and technologies;  
+• Pronouns: She/Her.
 
+
+## Tech Stack
+
+### Front-end
+<p>
+  <img src="https://devicon-website.vercel.app/api/html5/original.svg?size=36px" alt="HTML5" width="36" height="36" />
+  <img src="https://devicon-website.vercel.app/api/css3/original.svg?size=36px" alt="CSS3" width="36" height="36" />
+  <img src="https://devicon-website.vercel.app/api/javascript/original.svg?size=36px" alt="JavaScript" width="36" height="36" />
+  <img src="https://devicon-website.vercel.app/api/typescript/original.svg?size=36px" alt="TypeScript" width="36" height="36" />
+  <img src="https://devicon-website.vercel.app/api/angularjs/original.svg?size=36px" alt="Angular" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="36" height="36" />
+  <img src="https://devicon-website.vercel.app/api/bootstrap/original.svg?size=36px" alt="Bootstrap" width="36" height="36" />
 </p>
-</div>  
 
-<!--
-easter egg 
--->
- 
+### Back-end
+<p>
+  <img src="https://devicon-website.vercel.app/api/csharp/original.svg?size=36px" alt="CSharp" width="36" height="36" />
+  <img src="https://devicon-website.vercel.app/api/nodejs/original.svg?size=36px" alt="Node.js" width="36" height="36" />
 </p>
-<br>
+
+### DevOps
+<p>
+  <img src="https://devicon-website.vercel.app/api/azure/original.svg?size=36px" alt="Azure" width="36" height="36" />
+  <img src="https://devicon-website.vercel.app/api/amazonwebservices/original.svg?size=36px" alt="AWS" width="36" height="36" />
+</p>
+
+### Tools
+<p>
+  <img src="https://devicon-website.vercel.app/api/git/original.svg?size=36px" alt="Git" width="36" height="36" />
+  <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" width="36" height="36" />
+  <img src="https://devicon-website.vercel.app/api/vscode/original.svg?size=36px" alt="VS Code" width="36" height="36" />
+</p>
+
+### Notes
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="Notion" width="36" height="36" />
+</p>
+
+## GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=laiscl&theme=highcontrast&hide_border=true&border_radius=50&short_numbers=true&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
+</div>
+
 
