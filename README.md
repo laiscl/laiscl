@@ -1,6 +1,6 @@
 <div align="left">
 
-#Hey there! I'm Laís!
+## Hey there! I'm Laís!
 
 • Bachelor of IT & music producer;  
 • Improving my tech skills every day;  
