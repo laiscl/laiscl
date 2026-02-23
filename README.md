@@ -1,6 +1,6 @@
 <div align="left">
 
-# Hi there! I'm Laís — welcome to my GitHub!
+#Hey there! I'm Laís!
 
 • Bachelor of IT & music producer;  
 • Improving my tech skills every day;  
