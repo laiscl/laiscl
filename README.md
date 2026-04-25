@@ -1,15 +1,15 @@
-<h1 align="left">Hey there! I'm Laís 👋</h1>
+<h1 align="left">Hey there! I'm Laís!</h1>
 
 <p align="left">
-  🎓 Bachelor of IT & music producer<br/>
-  🚀 Improving my tech skills every day<br/>
-  🎶 I love music, programming, and learning new cultures, languages, and technologies<br/>
-  💬 Pronouns: She/Her
+   Bachelor of IT & music producer<br/>
+   Improving my tech skills every day<br/>
+   I love music, programming, and learning new cultures, languages, and technologies<br/>
+   Pronouns: She/Her
 </p>
 
 ---
 
-<h2 align="left">🛠️ Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 
 <h3 align="left">Front-end</h3>
 
@@ -53,18 +53,10 @@
 
 ---
 
-<h2 align="left">📊 GitHub Stats</h2>
+<h2 align="left">GitHub Stats</h2>
 
 <p align="left">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=laiscl&theme=highcontrast&hide_border=true&border_radius=15&short_numbers=true&date_format=%5BY.%5Dn.j&mode=weekly" alt="GitHub Streak"/>
   </a>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=laiscl&theme=highcontrast&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiscl&theme=highcontrast&hide_border=true&layout=compact" alt="Top Languages"/>
 </p>
